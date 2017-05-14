@@ -17,19 +17,19 @@ This is only two image slider which contains before image and after image. Give 
 
 ## == Example ==
 
-[t20baic id="manipulation" before="http://placehold.it/800x400/ManipulationBefore" after="http://placehold.it/800x400/ManipulationAfter"]
+```[t20baic id="manipulation" before="http://placehold.it/800x400/ManipulationBefore" after="http://placehold.it/800x400/ManipulationAfter"]```
 
 ## == Installation ==
 
 * Download the zip file.
 * Upload to your wordpress website.
-* Use the shortcode. [t20baic id="__unique-id__" before="__before-image__" after="__after-image__"]
+* Use the shortcode. ```[t20baic id="__unique-id__" before="__before-image__" after="__after-image__"]```
 
 
 ## == Frequently Asked Questions ==
 
 * Do the ID is mandatory?
-	Yes. Each ID refers to each slider. Without the ID it won't work.
+	* Yes. Each ID refers to each slider. Without the ID it won't work.
 
 ## == Changelog ==
 
